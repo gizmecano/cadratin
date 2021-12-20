@@ -12,5 +12,10 @@ According the the official documentation:
 4. the styles applied to the document can be find in the file `styles.xml`
 5. The `META-INF/manifest.xml` file describes the structure of the XML file
 
+Additional files are contained in the packed file format:
+
+1. The `manifest.rdf` file lists files which are contained in the document that contain RDF metadata, such as `content.xml` and `styles.xml`
+2. The `mimetype` file is containing the ASCII encoded MIME media type associated with the document
+
 [^1]: Values mentioning printing (`meta:printed-by` and `meta:print-date`) are left empty
 [^2]: Some values about printing (`config:name="PrinterName"` and `config:name="PrinterSetup"`) are left empty
