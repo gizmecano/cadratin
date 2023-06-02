@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<office:document-meta xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" office:version="1.2">
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:grddl="http://www.w3.org/2003/g/data-view#" office:version="1.3">
   <office:meta>
     <meta:initial-creator>P. Mergey</meta:initial-creator>
     <meta:creation-date>2021-12-10T16:40:31.574000000</meta:creation-date>
-    <meta:generator>LibreOffice/6.4.7.2$Windows_X86_64 LibreOffice_project/639b8ac485750d5696d7590a72ef1b496725cfb5</meta:generator>
-    <meta:editing-cycles>28</meta:editing-cycles>
-    <meta:editing-duration>PT6H39M9S</meta:editing-duration>
-    <dc:date>2021-12-12T16:05:00.157000000</dc:date>
+    <meta:generator>LibreOffice/7.4.7.2$Windows_X86_64 LibreOffice_project/723314e595e8007d3cf785c16538505a1c878ca5</meta:generator>
+    <meta:editing-cycles>31</meta:editing-cycles>
+    <meta:editing-duration>PT6H41M20S</meta:editing-duration>
+    <dc:date>2023-06-02T14:18:56.912000000</dc:date>
     <dc:creator>P. Mergey</dc:creator>
     <dc:title>Cadratin</dc:title>
     <meta:printed-by></meta:printed-by>
