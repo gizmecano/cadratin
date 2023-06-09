@@ -6,6 +6,8 @@
 
 Cadratin est un modèle [LibreOffice](https://www.libreoffice.org/) pour mettre en forme un manuscrit basé sur des [multiples du cadratin](https://fr.wikipedia.org/wiki/Cadratin) selon les normes typographiques françaises.
 
+Une [liste complète des différents styles appliqués dans ce modèle](styles.md) est disponible dans ce dépôt.
+
 ## Structure du fichier XML
 
 Selon la [documentation officielle](https://help.libreoffice.org/latest/fr/text/shared/00/00000021.html?DbPAR=SHARED#bm_id3154408):
