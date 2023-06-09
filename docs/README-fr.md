@@ -1,5 +1,7 @@
 # Cadratin
 
+[English](README.md) | Français
+
 ## Introduction
 
 Cadratin est un modèle [LibreOffice](https://www.libreoffice.org/) pour mettre en forme un manuscrit basé sur des [multiples du cadratin](https://fr.wikipedia.org/wiki/Cadratin) selon les normes typographiques françaises.

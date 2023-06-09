@@ -1,5 +1,7 @@
 # Cadratin
 
+English | [Français](README-fr.md)
+
 ## Overview
 
 Cadratin is a [LibreOffice](https://www.libreoffice.org/) template for layouting of a manuscript based on [em multiples](https://en.wikipedia.org/wiki/Em_(typography)) according to French typographical standards.
