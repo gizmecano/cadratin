@@ -28,7 +28,6 @@
       </config:config-item-map-indexed>
     </config:config-item-set>
     <config:config-item-set config:name="ooo:configuration-settings">
-      <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
       <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
       <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
       <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
@@ -56,6 +55,7 @@
       <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
       <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
       <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+      <config:config-item config:name="DropCapPunctuation" config:type="boolean">false</config:config-item>
       <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
       <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
       <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
@@ -70,6 +70,7 @@
       <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
       <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
       <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+      <config:config-item config:name="HyphenateURLs" config:type="boolean">true</config:config-item>
       <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
       <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
       <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
@@ -108,8 +109,9 @@
       <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
       <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
       <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+      <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
       <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary" />
-      <config:config-item config:name="Rsid" config:type="int">5577920</config:config-item>
+      <config:config-item config:name="Rsid" config:type="int">5708848</config:config-item>
       <config:config-item config:name="RsidRoot" config:type="int">834243</config:config-item>
       <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
       <config:config-item config:name="SaveThumbnail" config:type="boolean">false</config:config-item>
@@ -133,7 +135,6 @@
       <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
       <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
       <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
-      <config:config-item config:name="WordLikeWrapForAsCharFlys" config:type="boolean">false</config:config-item>
     </config:config-item-set>
   </office:settings>
 </office:document-settings>
