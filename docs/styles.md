@@ -1,6 +1,6 @@
 ---
-mark : 1.0.0-beta
-date : 2023-06-09
+mark : 1.0.0
+date : 2023-10-13
 ---
 
 # Styles appliqués

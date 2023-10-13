@@ -21,5 +21,8 @@
   "markdownlint.config": {
     "default": true,
     "line-length": false
-  }
+  },
+  "markdownlint.ignore": [
+    "LICENSE.md"
+  ],
 }
